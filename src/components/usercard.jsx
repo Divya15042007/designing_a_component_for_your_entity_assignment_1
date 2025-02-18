@@ -5,8 +5,8 @@ import React from 'react';
 const Usercard = () => {
   // Static user details
   const profilePhoto = "https://farm3.static.flickr.com/2696/4518893079_beb3d7bed3.jpg"; // Placeholder image URL
-  const name = "Lead Don";
-  const email = "Chotadon@example.com";
+  const name = "Buffy";
+  const email = "BuffyBoy@example.com";
   const phoneNumber = "+1 234 567 890";
   const address = "123 Main St, Springfield, IL, USA";
 
